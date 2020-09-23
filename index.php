@@ -8,7 +8,7 @@
         <?php
             echo "Hola alumnes";
             
-            echo "Adeu";
+            echo "Alumnes i professors";
         ?>
     </body>
 </html>
