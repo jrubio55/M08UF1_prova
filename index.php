@@ -11,7 +11,7 @@
             echo "Alumnes i professors";
             
             function funcion1(){
-                echo "Maria";
+                echo "Ivan";
             }
         ?>
     </body>
