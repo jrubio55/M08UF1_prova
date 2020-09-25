@@ -9,6 +9,10 @@
             echo "Hola alumnes";
             
             echo "Alumnes i professors";
+            
+            function funcion1(){
+                
+            }
         ?>
     </body>
 </html>
